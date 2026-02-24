@@ -102,9 +102,9 @@ $$
 
 $$
 d =
-\|\hat{\pi}_{row} - \pi^*\|_1
+\left\| \hat{\pi}_{row} - \pi^{*}_{L_1} \right\|_{1}
 +
-\|\hat{\pi}_{col} - \pi^*\|_1
+\left\| \hat{\pi}_{col} - \pi^{*}_{L_1} \right\|_{1}
 $$
 
 όπου
