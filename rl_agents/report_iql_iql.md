@@ -1,3 +1,5 @@
+# Independent Q-Learning σε Επαναλαμβανόμενο Prisoner's Dilemma
+
 # 1. Περιγραφή Προβλήματος
 
 Μελετάται η δυναμική μάθησης δύο ανεξάρτητων πρακτόρων Reinforcement Learning σε επαναλαμβανόμενο παιχνίδι Prisoner’s Dilemma (PD).
